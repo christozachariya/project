@@ -1,0 +1,9 @@
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\sam\sam\bin\Debug\sam.exe
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\sam\sam\bin\Debug\sam.pdb
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\sam\sam\obj\x86\Debug\sam.Form1.resources
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\sam\sam\obj\x86\Debug\sam.Properties.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\sam\sam\obj\x86\Debug\sam.csproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\sam\sam\obj\x86\Debug\sam.exe
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\sam\sam\obj\x86\Debug\sam.pdb
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\sam\sam\obj\x86\Debug\sam.Form2.resources
+C:\Users\HP\onedrive\documents\visual studio 2010\Projects\sam\sam\obj\x86\Debug\sam.csprojResolveAssemblyReference.cache
